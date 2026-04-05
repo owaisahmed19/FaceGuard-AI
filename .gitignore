@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.npy
+venv/
+.venv/
+data/chromadb/
+data/faceguard.db
+data/faces/
+data/watchlist/embeddings.pkl
+docs/shap_summary.png
+*.egg-info/
+.DS_Store
